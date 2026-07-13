@@ -12,7 +12,7 @@
     email: "priyankasanjayfatarpekar@gmail.com",
     github: "https://github.com/PriyankaFatarpekar",
     linkedin: "https://www.linkedin.com/in/priyanka-fatarpekar-131427263/",
-    resumeUrl: "https://drive.google.com/file/d/1CoFvi395C-s1zcuJ5VVwJ5xhY-z2dmat/view?usp=drivesdk",
+    resumeUrl: "https://drive.google.com/file/d/1KHY23mbNkz5lwjc5eOz79AOvS3yV8gP9/view?usp=drivesdk",
   },
   nav: [
     { label: "About", href: "#about" },
