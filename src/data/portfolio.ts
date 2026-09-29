@@ -7,8 +7,8 @@
   profile: {
     name: "Priyanka Fatarpekar",
     initials: "PF",
-    role: "Frontend Developer",
-    location: "Goa, India",
+    role: "Software Developer",
+    // location: "Goa, India",
     email: "priyankasanjayfatarpekar@gmail.com",
     github: "https://github.com/PriyankaFatarpekar",
     linkedin: "https://www.linkedin.com/in/priyanka-fatarpekar-131427263/",
@@ -24,9 +24,9 @@
   hero: {
     availability: "Available for opportunities",
     tagline:
-      "I turn designs into fast, accessible web experiences using React, Next.js, Firebase, and Supabase.",
+      "I turn designs into fast, accessible web experiences using React, Next.js, and Firebase.",
     primaryCta: "View My Work",
-    secondaryCta: "Download Resume",
+    // secondaryCta: "Download Resume",
     scrollLabel: "Scroll",
     tags: [
       "React",

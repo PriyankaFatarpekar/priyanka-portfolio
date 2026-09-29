@@ -16,21 +16,21 @@ export function Hero() {
             {portfolio.profile.role}
           </p>
           <p className="mt-5 max-w-2xl text-lg leading-8 text-ink-secondary dark:text-ink-dark-secondary">{portfolio.hero.tagline}</p>
-          <div className="mt-3 inline-flex items-center gap-2 text-sm text-ink-muted dark:text-ink-dark-muted">
+          {/* <div className="mt-3 inline-flex items-center gap-2 text-sm text-ink-muted dark:text-ink-dark-muted">
             <MapPin className="h-4 w-4" aria-hidden="true" />
             {portfolio.profile.location}
-          </div>
+          </div> */}
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a className="button-primary" href="#projects">
               {portfolio.hero.primaryCta}
               <ArrowRight className="h-4 w-4" aria-hidden="true" />
             </a>
-            {portfolio.profile.resumeUrl && (
+            {/* {portfolio.profile.resumeUrl && (
               <a className="button-secondary" href={portfolio.profile.resumeUrl} target="_blank" rel="noreferrer">
                 {portfolio.hero.secondaryCta}
                 <Download className="h-4 w-4" aria-hidden="true" />
               </a>
-            )}
+            )} */}
           </div>
         </div>
 
