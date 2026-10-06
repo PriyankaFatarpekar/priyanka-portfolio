@@ -1,4 +1,4 @@
-﻿import { ArrowRight, ChevronDown, Download, MapPin } from 'lucide-react'
+﻿import { ArrowRight, ChevronDown} from 'lucide-react'
 import { portfolio } from '../../data/portfolio'
 
 export function Hero() {
